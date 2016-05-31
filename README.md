@@ -1,6 +1,8 @@
 
 ![](https://github.com/NCSUMobiles/Spring16-storymaps/blob/master/extra/thumbnail.jpeg)
-Story Maps
+
+##Story Maps
+
 **Every Place has a story to tell**
 
 =========================
@@ -34,12 +36,11 @@ The StoryMaps application allows you to access curated stories for Raleigh. Ever
 * Copy the apk file onto your android phone and open to install
 * Enjoy! :D
 
+## Design Process
 
 ### Initial Paper Prototype
 
 ![](https://github.com/NCSUMobiles/Spring16-storymaps/blob/master/extra/PaperPrototype1.png)
-
-## Process
 
 ### Digital Prototype
 
