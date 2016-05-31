@@ -1,6 +1,8 @@
 
 ![](https://github.com/NCSUMobiles/Spring16-storymaps/blob/master/extra/thumbnail.jpeg)
 Story Maps
+**Every Place has a story to tell**
+
 =========================
 
 **Team Members :**
@@ -11,13 +13,19 @@ Story Maps
 4. Shraddha Naik (sanaik2)
 5. Stuti Nanda (snanda)
 
-### App Store
+###Description
 
-[Link to AppStore](https://play.google.com/store/apps/details?id=com.ionicframework.storymaps565921)
+Do you miss the old tourist maps that would give you curated content, specialized for your needs? Today, Google Maps dominate when it comes to travel. However, when one needs to explore new areas, where does one start? We don't have many options today to address this need. Thus, we present to you - StoryMaps.
+
+The StoryMaps application allows you to access curated stories for Raleigh. Every story or map trail is based on a different theme. You can select any story that you like and follow the trail of locations provided to start exploring the new place! Each story provides a custom map and distances of all places from your current location.
+
+### App Store Link
+
+[Click here to download the App from Google Play AppStore](https://play.google.com/store/apps/details?id=com.ionicframework.storymaps565921)
 
 <h3>Video </h3>
 
-[Click here to view the video] (https://www.youtube.com/watch?v=fJirEhxwehM)
+[Click here to view the app introduction video] (https://www.youtube.com/watch?v=fJirEhxwehM)
 
 ### Setup
 
@@ -31,6 +39,7 @@ Story Maps
 
 ![](https://github.com/NCSUMobiles/Spring16-storymaps/blob/master/extra/PaperPrototype1.png)
 
+## Process
 
 ### Digital Prototype
 
