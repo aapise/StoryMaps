@@ -3,8 +3,6 @@
 
 ##Story Maps
 
-###Description
-
 Do you miss the old tourist maps that would give you curated content, specialized for your needs? Today, Google Maps dominate when it comes to travel. However, when one needs to explore new areas, where does one start? We don't have many options today to address this need. Thus, we present to you - StoryMaps.
 
 The StoryMaps application allows you to access curated stories for Raleigh. Every story or map trail is based on a different theme. You can select any story that you like and follow the trail of locations provided to start exploring the new place! Each story provides a custom map and distances of all places from your current location.
