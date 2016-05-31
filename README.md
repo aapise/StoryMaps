@@ -3,8 +3,6 @@
 
 ##Story Maps
 
-=========================
-
 ###Description
 
 Do you miss the old tourist maps that would give you curated content, specialized for your needs? Today, Google Maps dominate when it comes to travel. However, when one needs to explore new areas, where does one start? We don't have many options today to address this need. Thus, we present to you - StoryMaps.
