@@ -56,9 +56,9 @@ You can find the digital prototype [here](https://story-maps.bubbleapps.io/versi
 
 **Team Members :**
 
-1. Abhishek Preman (apreman)
-2. Akshat Shah (ashah7)
-3. Ankita Pise (aapise)
-4. Shraddha Naik (sanaik2)
-5. Stuti Nanda (snanda)
+1. Abhishek Preman
+2. Akshat Shah
+3. Ankita Pise
+4. Shraddha Naik
+5. Stuti Nanda
 
