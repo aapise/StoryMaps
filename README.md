@@ -3,16 +3,6 @@
 
 ##Story Maps
 
-**Every place has a story to tell**
-
-**Team Members :**
-
-1. Abhishek Preman (apreman)
-2. Akshat Shah (ashah7)
-3. Ankita Pise (aapise)
-4. Shraddha Naik (sanaik2)
-5. Stuti Nanda (snanda)
-
 =========================
 
 ###Description
@@ -67,4 +57,12 @@ You can find the digital prototype [here](https://story-maps.bubbleapps.io/versi
 ### Deliverables
 
 [View deliverables here](https://github.com/NCSUMobiles/Spring16-storymaps/tree/master/extra)
+
+**Team Members :**
+
+1. Abhishek Preman (apreman)
+2. Akshat Shah (ashah7)
+3. Ankita Pise (aapise)
+4. Shraddha Naik (sanaik2)
+5. Stuti Nanda (snanda)
 
