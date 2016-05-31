@@ -3,9 +3,7 @@
 
 ##Story Maps
 
-**Every Place has a story to tell**
-
-=========================
+**Every place has a story to tell**
 
 **Team Members :**
 
@@ -14,6 +12,8 @@
 3. Ankita Pise (aapise)
 4. Shraddha Naik (sanaik2)
 5. Stuti Nanda (snanda)
+
+=========================
 
 ###Description
 
