@@ -11,6 +11,14 @@ Story Maps
 4. Shraddha Naik (sanaik2)
 5. Stuti Nanda (snanda)
 
+### App Store
+
+[Link to AppStore](https://play.google.com/store/apps/details?id=com.ionicframework.storymaps565921)
+
+<h3>Video </h3>
+
+[Click here to view the video] (https://www.youtube.com/watch?v=fJirEhxwehM)
+
 ### Setup
 
 * Clone this repo
@@ -45,14 +53,6 @@ You can find the digital prototype [here](https://story-maps.bubbleapps.io/versi
   
 ### Presentation
 [Click here to view the presentation](https://docs.google.com/a/ncsu.edu/presentation/d/1mVmf0creKeftyMkHHphsJwjkLjRXa_Uwr-xVHdh0LcQ/edit?usp=sharing)
-
-<h3>Video </h3>
-
-[Click here to view the video] (https://www.youtube.com/watch?v=fJirEhxwehM)
-
-### App Store
-
-[Link to AppStore](https://play.google.com/store/apps/details?id=com.ionicframework.storymaps565921)
 
 ### Deliverables
 
